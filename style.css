@@ -1,0 +1,13 @@
+body
+{
+    text-align: center;
+    background-color: lightblue;
+}
+h2
+{
+  font-size: 25px !important;
+}
+canvas {
+    border:10px dashed blue;
+    border-radius: 15px 50px;
+}
